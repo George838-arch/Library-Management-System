@@ -43,18 +43,26 @@ engineering concepts in C++.
 
 This project was built to:
 Apply theoretical C++ concepts in a practical system
+
 Improve understanding of OOP and file handling
+
 Build a portfolio-ready project for GitHub and LinkedIn
+
 Demonstrate problem-solving and system design skills
 
 📈 Future Enhancements
 
 Password masking and encryption
+
 Improved input validation
+
 Enhanced user interface
+
 Database integration
+
 UML diagrams and documentation
 
 👤 Author
 George Medhat
+
 Aspiring Software Engineer | C++ Developer
