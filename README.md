@@ -50,7 +50,8 @@ Build a portfolio-ready project for GitHub and LinkedIn
 
 Demonstrate problem-solving and system design skills
 
-📈 Future Enhancements
+
+## 📈 Future Enhancements
 
 Password masking and encryption
 
