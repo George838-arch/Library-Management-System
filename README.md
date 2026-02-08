@@ -63,7 +63,8 @@ Database integration
 
 UML diagrams and documentation
 
-👤 Author
+## 👤 Author
+
 George Medhat
 
 Aspiring Software Engineer | C++ Developer
